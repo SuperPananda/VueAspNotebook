@@ -1,4 +1,4 @@
 VueAspNotebook/node_modules/
-vs/
+.vs/
 VueAspNotebook/package-lock.json
 VueAspNotebook/bin/
